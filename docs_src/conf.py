@@ -16,7 +16,7 @@ release = '2.0'
 
 extensions = []
 
-templates_path = ['templates']
+templates_path = []
 exclude_patterns = []
 
 
